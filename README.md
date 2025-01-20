@@ -10,7 +10,7 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-
+https://github.com/flaviatrindade/lab-natty-or-not/blob/main/Jur%C3%ADdico%20Inteligente.mp3
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
